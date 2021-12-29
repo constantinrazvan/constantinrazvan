@@ -13,7 +13,7 @@
 ![Java](https://img.shields.io/badge/Java--orange.svg?style=flat&logo=java)
 ![C](https://img.shields.io/badge/C--blue.svg?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++--indigo.svg?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python--black-green.svg?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python--black.svg?style=flat&logo=python)
 ![Swift](https://img.shields.io/badge/Swift--orange.svg?style=flat&logo=swift)
 ![Git](https://img.shields.io/badge/Git--red.svg?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/Github--black.svg?style=flat&logo=github)
