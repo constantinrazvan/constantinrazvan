@@ -3,7 +3,7 @@
   <p> I am currently a (junior) Software Engineer, </p>
 
 - 🌱 I’m currently learning Computer Science.
-- 📫 How to reach me: [Twitter][https://twitter.com/razvanpnn], [Instagram][https://www.instagram.com/rzv.dev/].
+- 📫 How to reach me: ![Twitter](https://twitter.com/razvanpnn)., ![Instagram](https://www.instagram.com/rzv.dev/).
 - - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I do not like footbal.
   
@@ -18,4 +18,4 @@
 
 <br />
   
-  (https://badgen.net/github/commits/micromatch/micromatch/4.0.1)
+  [last commit](https://badgen.net/github/commits/micromatch/micromatch/4.0.1)
