@@ -10,15 +10,15 @@
   <br />
 
 ### Languages and Tools 🛠 
-![Java](https://img.shields.io/badge/Java--blue.svg?style=flat&logo=java)
+![Java](https://img.shields.io/badge/Java--orange.svg?style=flat&logo=java)
 ![C](https://img.shields.io/badge/C--blue.svg?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++--blue.svg?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python--blue.svg?style=flat&logo=python)
-![Swift](https://img.shields.io/badge/Swift--blue.svg?style=flat&logo=swift)
-![Git](https://img.shields.io/badge/Git--blue.svg?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/Github--blue.svg?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/Visual-Studio-Code--blue.svg?style=flat&logo=visual-studio-code)
-![Firebase](https://img.shields.io/badge/Firebase--blue.svg?style=flat&logo=firebase)
+![C++](https://img.shields.io/badge/C++--indigo.svg?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python--gray.svg?style=flat&logo=python)
+![Swift](https://img.shields.io/badge/Swift--orange.svg?style=flat&logo=swift)
+![Git](https://img.shields.io/badge/Git--red.svg?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/Github--gray.svg?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/Visual--purple.svg?style=flat&logo=visual-studio-code)
+![Firebase](https://img.shields.io/badge/Firebase--orange.svg?style=flat&logo=firebase)
 
 
 
