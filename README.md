@@ -17,7 +17,7 @@
 ![Swift](https://img.shields.io/badge/Swift--orange.svg?style=flat&logo=swift)
 ![Git](https://img.shields.io/badge/Git--red.svg?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/Github--black.svg?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/Visual Studio Code--purple.svg?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/Visual-Studio_Code--purple.svg?style=flat&logo=visual-studio-code)
 ![Firebase](https://img.shields.io/badge/Firebase--orange.svg?style=flat&logo=firebase)
 
 <br />
