@@ -10,10 +10,15 @@
   <br />
 
 ### Languages and Tools 🛠 
-![GitHub](https://badgen.net/badge/Github//?icon=github)
-![VS Code](https://badgen.net/badge/VS-Code//?icon=visual-studio-code)
-![Firebase](https://badgen.net/badge/Firabse//?icon=firebase)
-![C](https://badgen.net/badge/C//?icon=c)
-![C++](https://badgen.net/badge/C++//?icon=c++)
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-white?logo=Python&style=social)
+![Swift](https://img.shields.io/badge/-Swift-white?logo=Python&style=social)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+
+
 
 <br />
