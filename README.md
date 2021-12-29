@@ -18,4 +18,4 @@
 
 <br />
   
-  https://badgen.net/github/commits/micromatch/micromatch/4.0.1
+  (https://badgen.net/github/commits/micromatch/micromatch/4.0.1)
