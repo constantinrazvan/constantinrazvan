@@ -11,7 +11,7 @@
 
 ### Languages and Tools 🛠 
 ![GitHub](https://badgen.net/badge/Github//:blue?icon=github)
-![VS Code](https://badgen.net/badge/VS Code//:blue?icon=visual-studio-code)
+![VS Code](https://badgen.net/badge/VS-Code//:blue?icon=visual-studio-code)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![C++](https://badgen.net/badge/C++//:blue?icon=c++)
