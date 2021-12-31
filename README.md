@@ -13,7 +13,6 @@
   <br />
 
 ### Languages and Tools 🛠 
-![Java](https://img.shields.io/badge/Java--orange.svg?style=flat&logo=java)
 ![C](https://img.shields.io/badge/C--blue.svg?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++--indigo.svg?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python--black.svg?style=flat&logo=python)
