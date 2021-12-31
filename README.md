@@ -26,3 +26,5 @@
 ![Sketch](https://img.shields.io/badge/Sketch--orange.svg?style=flat&logo=sketch)
 
 <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constantinrazvan&hide=c#,c++,python,javascript&theme=light)
