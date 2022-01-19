@@ -23,5 +23,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase--orange.svg?style=flat&logo=firebase)
 ![Figma](https://img.shields.io/badge/Figma--red.svg?style=flat&logo=figma)
 ![Sketch](https://img.shields.io/badge/Sketch--orange.svg?style=flat&logo=sketch)
+![HTML](https://img.shields.io/badge/HTML--orange.svg?style=flat&logo=html)
 
 <br />
