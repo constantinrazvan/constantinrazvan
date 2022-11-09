@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div> 
-  <p>Web Developer, fast learner, hard worker and team player. I'm always a hard worker for my dreams or for a target. I have some good skills in UI/UX Design and in coding, as well as an ability to write clean code.
+  <p>Hi everyone! My name is Razvan Constantin and I am a Software Engineer based in Romania. My tech stack is: C++, Python, Swift, GIT, MongoDB, Firebase and SQL.
   </p>
 </div>
 
