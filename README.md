@@ -7,6 +7,7 @@
 
 <h3 align="left"><b>Get in touch:</b></h3>
 <p> <a href="https://www.linkedin.com/in/r%C4%83zvan-constantin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></p>
+<p> <a href="mailto:razvanpana20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
 
