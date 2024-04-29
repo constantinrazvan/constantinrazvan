@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=constantinrazvan&label=Profile%20views&color=0e75b6&style=flat" alt="constantinrazvan" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Java and Back-end Development**
+- 🌱 I’m currently learning **Microservices and Back-end Development**
 
 - 👨‍💻 All of my projects are available at [Check my repositories](https://github.com/constantinrazvan?tab=repositories&q=&type=public&language=&sort=)
 
-- 💬 Ask me about **Spring-Boot, Node.js, Java, Enterprise Software**
+- 💬 Let's talk about **Back-end Development, Enterprise Software and Startups**
 
 - 📫 How to reach me **razvanpana20@gmail.com**
 
