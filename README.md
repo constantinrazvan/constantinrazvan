@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Razvan Constantin</h1>
 <h3 align="center">A passionate Software Developer from Romania</h3>
 
-- 🌱 I’m currently enrolled in **Computer Science**
+- 🌱 I’m currently enrolled in **Computer Science** degree
 
 - 📫 How to reach me **razvanpana20@gmail.com**
 
