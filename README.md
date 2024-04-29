@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Java and Back-end Development**
 
-- 👨‍💻 All of my projects are available at [Github](github.com/constantinrazvan)
+- 👨‍💻 All of my projects are available at [Check my repositories](https://github.com/constantinrazvan?tab=repositories&q=&type=public&language=&sort=)
 
 - 💬 Ask me about **Spring-Boot, Node.js, Java, Enterprise Software**
 
