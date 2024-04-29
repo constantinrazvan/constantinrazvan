@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Spring Boot, Java and Back-end Development**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](github.com/constantinrazvan)
 
 - 💬 Ask me about **Spring-Boot, Node.js, Java, Enterprise Software**
 
 - 📫 How to reach me **razvanpana20@gmail.com**
 
-- 📄 Know about my experiences [Check my LinkedIn](Check my LinkedIn)
+- 📄 Know about my experiences [Check my LinkedIn](https://www.linkedin.com/in/pana-razvan-constantin/)
 
 - ⚡ Fun fact **I use tabs instead of spaces**
 
