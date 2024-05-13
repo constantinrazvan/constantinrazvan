@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Razvan</h1>
 <h3 align="center">A passionate junior software engineer full-time computer Science student from Constanta, Romania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=constantinrazvan&label=Profile%20views&color=0e75b6&style=flat" alt="constantinrazvan" /> </p>
-
 - 🌱 I’m currently learning **Microservices and Back-end Development**
 
 - 👨‍💻 All of my projects are available at [Check my repositories](https://github.com/constantinrazvan?tab=repositories&q=&type=public&language=&sort=)
