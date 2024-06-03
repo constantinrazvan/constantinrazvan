@@ -42,8 +42,7 @@
   </a>
 
   <strong>Front-end</strong><br/>
- [![My Skills](https://skillicons.dev/icons?i=html, css, bootstrap, react.js)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
