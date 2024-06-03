@@ -21,14 +21,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <strong>Programming Languages:</strong><br/>
-    <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,java,javascript,python" />
     </a>
   </p>
 
   <strong>Back-end Frameworks:</strong><br/>
-  [![My Skills](https://skillicons.dev/icons?i=java,nodejs,c,figma&theme=light)](https://skillicons.dev)
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+    </a>
+  </p>
 
 
   <strong>Front-end</strong><br/>
