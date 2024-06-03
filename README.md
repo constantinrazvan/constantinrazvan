@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,java,javascript,python&theme=light" />
+<a href="https://www.linkedin.com/in/pana-razvan-constantin/">
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
 </a>
 </p>
 
