@@ -34,9 +34,39 @@
     </a>
   </p>
 
+  <strong>Databases (I've worked with)</strong><br/>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=light" />
+    </a>
+  </p>
 
   <strong>Front-end</strong><br/>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,bootstrap&theme=light" />
+    </a>
+  </p>
+
+  <strong> Other tools </strong>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,npm,notion&theme=light" />
+    </a>
+  </p>
+
+  <strong>IDEs & Code Editors</strong>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea&theme=light" />
+    </a>
+  </p>
+
+  <strong> Operating Systems (I used) </strong>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=windows, ubuntu&theme=light" />
+    </a>
+  </p>
+  
 </p>
