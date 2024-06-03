@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋! </h1>
-<h2>I'm Razvan</h2>
+<h1 align="left">Hi 👋! <br/> I'm Razvan </h1>
 <h3 align="left">A passionate junior software engineer full-time computer Science student from Constanta, Romania</h3>
 
 - 🌱 I’m currently learning **Microservices and Back-end Development**
