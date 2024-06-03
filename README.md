@@ -23,14 +23,14 @@
   <strong>Programming Languages:</strong><br/>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,java,javascript,python" />
+      <img src="https://skillicons.dev/icons?i=c,java,javascript,python&theme=light" />
     </a>
   </p>
 
   <strong>Back-end Frameworks:</strong><br/>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+      <img src="https://skillicons.dev/icons?i=spring,nodejs&theme=light" />
     </a>
   </p>
 
