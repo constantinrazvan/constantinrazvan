@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <strong>Programming Languages:</strong><br/>
-  [![Programming Languages](https://skillicons.dev/icons?i=java,js,c,python&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,js,c,python&theme=light)](https://skillicons.dev)
 
   <strong>Back-end Frameworks:</strong><br/>
   [![My Skills](https://skillicons.dev/icons?i=java,nodejs,c,figma&theme=light)](https://skillicons.dev)
