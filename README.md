@@ -30,7 +30,7 @@
   <strong>Back-end Frameworks:</strong><br/>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,nodejs&theme=light" />
+      <img src="https://skillicons.dev/icons?i=spring,express&theme=light" />
     </a>
   </p>
 
