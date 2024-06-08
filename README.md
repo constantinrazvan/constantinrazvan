@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! <br/> I'm Razvan </h1>
-<h3 align="center">A passionate junior software engineer full-time computer Science student from Constanta, Romania</h3>
+<h3 align="center">A passionate junior software engineer, full-time Computer Science student from Constanta, Romania</h3>
 
 - 🌱 I’m currently learning **Microservices and Back-end Development**
 
