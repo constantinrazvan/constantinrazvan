@@ -7,7 +7,7 @@
 
 - 💬 Let's talk about **Back-end Development, Enterprise Software and Startups**
 
-- 🌟 Big interest in : **Java, C#, Spring Boot, .NET Core, Back-end Development and Enterprise Software** 
+- 🌟 Big interest in : **Java, C#, Spring Boot, .NET Core, Angular, Back-end Development and Enterprise Software** 
 
 - 📫 How to reach me **razvanpana20@gmail.com**
 
