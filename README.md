@@ -31,10 +31,10 @@
     </a>
   </p>
 
-  <strong>Back-end Frameworks:</strong><br/>
+  <strong>Back-end</strong><br/>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,express&theme=light" />
+      <img src="https://skillicons.dev/icons?i=spring,express,dotnet,postgres,mongodb,sqlserver&theme=light" />
     </a>
   </p>
 
@@ -48,28 +48,14 @@
   <strong>Front-end</strong><br/>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,bootstrap&theme=light" />
+      <img src="https://skillicons.dev/icons?i=react,bootstrap,angular&theme=light" />
     </a>
   </p>
 
   <strong> Other tools </strong>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,npm,notion&theme=light" />
-    </a>
-  </p>
-
-  <strong>IDEs & Code Editors</strong>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea&theme=light" />
-    </a>
-  </p>
-
-  <strong> Operating Systems (I used) </strong>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=windows,ubuntu&theme=light" />
+      <img src="https://skillicons.dev/icons?i=git,github,npm,maven,nuget,notion&theme=light" />
     </a>
   </p>
   
