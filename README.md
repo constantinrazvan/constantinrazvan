@@ -7,7 +7,7 @@
 
 - 💬 Let's talk about **Back-end Development, Enterprise Software and Startups**
 
-- 🌟 Big interest in : **Java, C#, Spring Boot, .NET Core, Angular, Back-end Development and Enterprise Software** 
+- 🌟 Big interest in : **Back-end Development and Enterprise Software** 
 
 - 📫 How to reach me **razvanpana20@gmail.com**
 
@@ -27,21 +27,14 @@
   <strong>Programming Languages:</strong><br/>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,java,javascript,python&theme=light" />
+      <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python&theme=light" />
     </a>
   </p>
 
   <strong>Back-end</strong><br/>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,express,dotnet,postgres,mongodb,sqlserver&theme=light" />
-    </a>
-  </p>
-
-  <strong>Databases (I've worked with)</strong><br/>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=light" />
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet,postgres,mongodb,sqlserver&theme=light" />
     </a>
   </p>
 
@@ -55,7 +48,7 @@
   <strong> Other tools </strong>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,npm,maven,nuget,notion&theme=light" />
+      <img src="https://skillicons.dev/icons?i=git,github,npm,maven,postman,notion&theme=light" />
     </a>
   </p>
   
