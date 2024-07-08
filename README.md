@@ -51,5 +51,7 @@
       <img src="https://skillicons.dev/icons?i=git,github,npm,maven,postman,notion&theme=light" />
     </a>
   </p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constantinrazvan&langs_count=5&theme=tokyonight)
+  
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constantinrazvan&langs_count=5&theme=tokyonight)
