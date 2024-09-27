@@ -34,7 +34,7 @@
   <strong>Back-end</strong><br/>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet,postgres,mongodb,sqlserver&theme=light" />
+      <img src="https://skillicons.dev/icons?i=spring,dotnet,postgres,mongodb&theme=light" />
     </a>
   </p>
 
