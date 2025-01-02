@@ -1,4 +1,4 @@
-<h1 align=""><b>Hi</b> 👋! I'm Razvan! </h1>
+<h1 align=""><b>Hi</b> !👋 I'm Razvan! </h1>
 <p>A passionate junior software engineer, full-time Computer Science student from Constanta, Romania</p>
 
 - 🌱 I’m currently learning **Full Stack Development**
